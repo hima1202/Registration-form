@@ -1,0 +1,67 @@
+
+*{
+    background-color:rgb(200, 234, 236) ;
+}
+html{
+    font-size: large;
+    margin-left: 100px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+table{
+    width: 80%;
+}
+td{
+    margin-left: 120px;
+}
+form{
+    margin-left: 20px;
+}
+.abc{
+    color: rgb(92, 24, 24);
+}
+label{
+    font-size: 15px;
+   
+    
+}
+input{
+    font-size: 15px;
+    color: rgb(18, 19, 20);
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+.details{
+    width: 80%;
+    height: 30px;
+    border-radius: 3px;
+}
+h4{
+    font-size: 20px;
+  
+}
+.dropdown{
+    font-size: large;
+    color: black;
+
+}
+li{
+    text-decoration: none;
+}
+b{
+    color: black;
+
+}
+button{
+    font-size: 40px;
+   color: rgb(255, 255, 255);
+   border: 3px;
+   padding: 10px 40px;
+   border-radius: 10px;
+  border: 3px ;
+  background-color:white;
+}
+
+
